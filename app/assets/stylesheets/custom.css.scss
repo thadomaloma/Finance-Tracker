@@ -11,6 +11,14 @@ body {
     min-height: 100vh;
 }
 
+.jumbotron {
+  background-image: asset-url('joanna.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
 .search-area {
   padding-top: 50px;
 }
