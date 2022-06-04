@@ -1,23 +1,41 @@
-# Finance Tracker Overview
+#README
+
+## Finance Tracker Overview
 
 Finance Tracker Web Application is the users can create their profiles and track any stock they want, all they have to do is simply type the ticker symbol of the stock or simply search the name of the stock from the search bar and add to their portfolio. The data is fetched from a stock API which displays the current prices of the stocks. Users can also follow other users and see their profiles and check which stocks they are tracking and add those stocks to their portfolio too.									
 
-Things you may want to cover:
+## Development Language
 
-* Ruby version
+* Ruby 3.0.1
+* Rails 6.0.3
 
-* System dependencies
+## Employment Term Technology
 
-* Configuration
+* devise
+* AWS
 
-* Database creation
+## Technology outside the curriculum
 
-* Database initialization
+* iex-ruby-client
+* font-awesome-rails
 
-* How to run the test suite
+## Execution Procedure
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+$ git clone git@github.com:thadomaloma/Finance-Tracker.git
+$ cd Finance-Tracker
+$ bundle install
+$ rails db:create && rails db:migrate
+$ rails s
+```
 
-* Deployment instructions
+## Catalog Design
 
-* ...
+
+## Table Definition Document
+
+## Wireframe
+
+## ER Diagram
+
+## Screen Transition Diagram
