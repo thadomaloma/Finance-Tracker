@@ -34,8 +34,12 @@ $ rails s
 
 ## Table Definition Document
 
+(https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit?usp=sharing)
+
 ## Wireframe
 
 ## ER Diagram
+
+![ER Diagram](https://drive.google.com/file/d/1CudrVtMV6am9qq3zHXtFYeN1HY0kSDqb/view?usp=sharing)
 
 ## Screen Transition Diagram
