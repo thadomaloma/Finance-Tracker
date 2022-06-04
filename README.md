@@ -44,6 +44,6 @@ $ rails s
 
 ## ER Diagram
 
-![ER Diagram](https://user-images.githubusercontent.com/34126458/172001270-4080fb59-6094-4383-99dc-c086aa778318.jpg)
+(https://drive.google.com/file/d/1CudrVtMV6am9qq3zHXtFYeN1HY0kSDqb/view?usp=sharing)
 
 ## Screen Transition Diagram
