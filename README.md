@@ -1,4 +1,4 @@
-#README
+# README
 
 ## Finance Tracker Overview
 
