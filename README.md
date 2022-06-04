@@ -31,15 +31,18 @@ $ rails s
 
 ## Catalog Design
 
+(https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1804989209)
 
 ## Table Definition Document
 
-(https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit?usp=sharing)
+(https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1090603487)
 
 ## Wireframe
 
+
+
 ## ER Diagram
 
-![ER Diagram](https://drive.google.com/file/d/1CudrVtMV6am9qq3zHXtFYeN1HY0kSDqb/view?usp=sharing)
+(https://drive.google.com/file/d/1CudrVtMV6am9qq3zHXtFYeN1HY0kSDqb/view?usp=sharing)
 
 ## Screen Transition Diagram
