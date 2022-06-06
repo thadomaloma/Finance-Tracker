@@ -41,6 +41,7 @@ $ rails s
 
 ## Wireframe
 
+(https://cacoo.com/diagrams/OoZ0zRukwUjCbHEk/2ED10)
 
 
 ## ER Diagram
