@@ -19,6 +19,7 @@ Finance Tracker Web Application is the users can create their profiles and track
 
 * iex-ruby-client
 * font-awesome-rails
+* devise-bootstrap-views
 
 ## Execution Procedure
 
