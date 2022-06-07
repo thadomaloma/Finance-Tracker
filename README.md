@@ -33,15 +33,15 @@ $ rails s
 
 ## Catalog Design
 
-(https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1804989209)
+https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1804989209
 
 ## Table Definition Document
 
-(https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1090603487)
+https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1090603487
 
 ## Wireframe
 
-(https://cacoo.com/diagrams/OoZ0zRukwUjCbHEk/5153F)
+https://cacoo.com/diagrams/OoZ0zRukwUjCbHEk/5153F
 
 
 ## ER Diagram
