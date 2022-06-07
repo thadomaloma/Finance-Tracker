@@ -13,7 +13,6 @@ Finance Tracker Web Application is the users can create their profiles and track
 
 * devise
 * AWS
-* follow function
 
 ## Technology outside the curriculum
 
