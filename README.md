@@ -45,7 +45,7 @@ https://cacoo.com/diagrams/OoZ0zRukwUjCbHEk/5153F
 
 ## ER Diagram
 
-![ER](https://user-images.githubusercontent.com/34126458/173005754-976941a1-6a84-484d-9db6-a3643dfe953b.png)
+![ER Diagram final](https://user-images.githubusercontent.com/34126458/173006269-b0e74389-a46e-40b2-8df1-89c88b7de872.png)
 
 ## Screen Transition Diagram
 
