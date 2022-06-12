@@ -32,7 +32,7 @@ $ rails s
 
 ## Catalog Design
 
-https://docs.google.com/spreadsheets/d/1w8zFUF2lrNt3imeR_DwedWxzm0hgkVJ2UoXVLhv7l9s/edit#gid=1997763068
+https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1804989209
 
 ## Table Definition Document
 
