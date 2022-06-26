@@ -29,24 +29,3 @@ $ bundle install
 $ rails db:create && rails db:migrate
 $ rails s
 ```
-
-## Catalog Design
-
-https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1804989209
-
-## Table Definition Document
-
-https://docs.google.com/spreadsheets/d/1tMisftJjyKa01f2uG6Vm9jKkqMGS-H6tytu7U1yWi_w/edit#gid=1090603487
-
-## Wireframe
-
-https://cacoo.com/diagrams/OoZ0zRukwUjCbHEk/5153F
-
-
-## ER Diagram
-
-![ER Diagram final](https://user-images.githubusercontent.com/34126458/173006269-b0e74389-a46e-40b2-8df1-89c88b7de872.png)
-
-## Screen Transition Diagram
-
-![Screen Transition](https://user-images.githubusercontent.com/34126458/172381736-2e6b3e15-71cd-48f5-bba8-d864f1d4580e.png)
