@@ -9,17 +9,6 @@ Finance Tracker Web Application is the users can create their profiles and track
 * Ruby 3.0.1
 * Rails 6.0.3
 
-## Employment Term Technology
-
-* devise
-* AWS
-
-## Technology outside the curriculum
-
-* iex-ruby-client
-* font-awesome-rails
-* devise-bootstrap-views
-
 ## Execution Procedure
 
 ```
